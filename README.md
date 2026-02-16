@@ -1,6 +1,6 @@
 # Hi, I’m Marc 👋
 
-I’m a computer‑science student at Technische Universität Berlin (class of 2027) with a passion for data science, machine learning and AI. I enjoy tackling complex problems, exploring new technologies and sharing knowledge through tutoring. Alongside my studies, I serve as an academic tutor for undergraduate CS courses and hold a Coursera certificate in Applied Machine Learning in Python.
+I’m a computer‑science student at Technische Universität Berlin (class of 2027) with a passion for data science, machine learning and AI. I enjoy tackling complex problems, exploring new technologies and sharing knowledge through tutoring. Alongside my studies, I serve as an academic tutor for undergraduate CS courses and hold a Coursera certificate in Applied Machine Learning in Python. I actively participate to build practical solution under time pressure.
 
 ## 🛠 Technical Skills
 
